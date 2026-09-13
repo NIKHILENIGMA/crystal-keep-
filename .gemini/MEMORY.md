@@ -11,8 +11,8 @@ one summary paragraph and keep only the last few sessions in detail.
 ---
 
 ## Current Status
-**Phase**: Phase 5 complete.
-**Next up**: Phase 6 — README + deploy. See `REQUIREMENTS.md` for full scope and `ARCHITECTURE.md` for the design.
+**Phase**: Phase 6 complete. The project is finished!
+**Next up**: Maintain/expand. See `REQUIREMENTS.md` for full scope and `ARCHITECTURE.md` for the design.
 
 ## Decisions Already Made (do not re-litigate — see RULES.md for why)
 - Stack: Vite + vanilla TypeScript (strict) + Canvas2D + Vitest.
@@ -66,3 +66,4 @@ next. Compress old entries into a summary once this section gets long.)_
 - **[2026-09-12]** — Completed Phase 3. Implemented robust game state controls: pause/resume logic decoupled from render loop, 1x/2x/4x simulation speed multipliers, and full state restart. Next up: Phase 4 (Performance & stress test).
 - **[2026-09-12]** — Completed Phase 4. Added viewport culling and stress test mode (100 towers, 5000 enemies). User reported FPS stayed well above the 45 FPS target (mostly 100+ FPS) during stress scenario, proving the architecture successful. Next up: Phase 5 (Polish).
 - **[2026-09-13]** — Completed Phase 5. Added Shop UI, Context Menus (upgrade/sell), spatial placement restrictions, exponential upgrade economy, dynamic max levels, floating damage numbers, and hooked up AI-generated tower sprites into the Canvas renderer. Next up: Phase 6 (README & Deploy).
+- **[2026-09-13]** — Completed Phase 6. Wrote comprehensive project README outlining the Struct-of-Arrays architecture and features. Prepared the repository for deployment to Netlify/GitHub. Project is completely finished!
