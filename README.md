@@ -6,7 +6,7 @@ A highly optimized, high-performance 2D Tower Defense game built purely with **V
 
 ## 🎮 Play the Game
 
-[Play the Live Demo on Netlify](#) *(Add your Netlify URL here once deployed!)*
+[Play the Live Demo on Netlify](#https://crystal-keep.netlify.app) 
 
 ---
 
